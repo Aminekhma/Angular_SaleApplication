@@ -1,0 +1,35 @@
+#conteneur{
+    text-align: center;
+}
+ion-button{
+    color:white;
+    --background: rgba(0, 0, 0, 0.288);
+    height:120px;
+    width:100%;
+    --border-style:solid;
+    --border-color:rgba(0, 0, 0, 0.479);
+    --border-radius:none;
+    font-size: 11px;
+    text-align: start;
+    font-family: Comic Sans MS ; 
+}
+h1{
+
+    text-align: center;
+    font-style: italic;
+    font-family: Comic Sans MS;
+    font-size: 22px;
+
+}
+#bouton{
+    background-color: black;
+}
+
+#text{
+    margin-left: 20px;
+}
+
+#head{
+    height:100px;
+    background-color:black;
+}

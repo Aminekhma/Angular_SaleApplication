@@ -1,0 +1,65 @@
+
+
+#conteneur{
+    text-align: center;
+  
+}
+
+#container strong {
+    font-size: 12px;
+    font-family: cursive;
+    font-style: italic;
+    color: #000000;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 20%;
+  }
+#container h1{
+    position: absolute;
+    font-family: Palace Script MT ; 
+    left: 0;
+    right: 0;
+    top: 2%;
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    font-style: italic;
+}
+
+#container p {
+    font-size: 12px;
+    font-style: italic;
+    font-family: Comic Sans MS;
+    color: #000000;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 24%;
+  }
+  
+ion-button{
+    color:white;
+    --background: rgba(0, 0, 0, 0.288);
+    height:60px;
+    width:100%;
+    --border-style:solid;
+    --border-color:rgba(0, 0, 0, 0.479);
+    --border-radius:black;
+    font-size: 11px;
+}
+
+#text{
+    margin-left: 10px;
+}
+
+#container3 {
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    align-self: center;
+  }
+
+  

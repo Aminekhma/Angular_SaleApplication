@@ -1,0 +1,39 @@
+
+#contenue{
+    text-align: center;
+    align-content: center;
+}
+
+#contenue h1{
+    position: absolute;
+    font-family: Palace Script MT ; 
+    left: 0;
+    right: 0;
+    top: 2%;
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    font-style: italic;
+}
+
+#contenue p{
+    font-size: 11px;
+    font-style: italic;
+    font-family: Comic Sans MS;
+    color: #000000;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 57%;
+}
+
+#contenue ion-img{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 10%;
+    width:300px;
+    height:300px;
+    display: block;
+    margin: 0 auto;
+}
